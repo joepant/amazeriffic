@@ -1,3 +1,6 @@
-# Node.js and Express Hosted on Microsoft Azure Template
-This repository serves as a template that can be used to create a Node.js and Express based website that can easily
-be hosted on Microsoft Azure.
+Joe Pantaliono
+Amazeriffic (Learning Web App Development, O'Reilly)
+josephapantaliono@lewisu.edu
+
+All credit for this project goes to Semmy Purewal, author of Learning Web App Development
+This project is simply an implementation of the project found inside the text.
